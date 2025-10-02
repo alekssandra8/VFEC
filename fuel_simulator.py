@@ -7,7 +7,7 @@ fuel_total = 30 #liters
 fuel_data = []
 
 def calc_fuel(speed):
-	return 0.0005 * speed + 0.001
+	return 0.0005 * speed 
 
 
 
